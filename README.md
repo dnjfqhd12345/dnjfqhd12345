@@ -1,7 +1,7 @@
 ## Hi Welcome, I'm GEEJUN LEE 👋
 
-#### Chonnam National University, Department of Computer Engineering
-#### Interested in Back-End Engineering
+### Chonnam National University, Department of Computer Engineering
+### Interested in Back-End Engineering
 
 A Developer who connect worldwide people each other, make a better world by web.
 
