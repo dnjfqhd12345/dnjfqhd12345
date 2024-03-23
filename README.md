@@ -13,7 +13,7 @@ IntelliJ IDEA, Visual Studio, Visual Studio Code, Eclipse IDE, VIM
 
 ### 📱Projects
 
-Notion Link
+[Notion Link](https://peat-cress-b88.notion.site/GEEJUN-s-Projects-d1ef1982e16740b28f4d7ada9b6bfa38?pvs=4/)
 
 ### ✏️ My Study Blog
 
