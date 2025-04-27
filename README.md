@@ -32,6 +32,10 @@ zzzz7037@naver.com
 
 Chonnam National University, Department of Computer Engineering
 
+### 💼 Job
+
+Korea Federation of Community Credit Cooperative(KFCC) | MG새마을금고중앙회
+
 <!--
 **dnjfqhd12345/dnjfqhd12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
